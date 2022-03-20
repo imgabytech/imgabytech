@@ -1,13 +1,3 @@
-         <section class = "jumbotron">
-    <div class = "container">
-      <div class = "row text-center">
-      </div>
-      <div class="jumboright">
-        <h1>¡Hola!</h1>
-        <p>Soy Mar&iacute;a Gabriela, pero puedes decirme Gaby. <b>¿Necesitas dar a conocer tu empresa, negocio o emprendimiento
-          en la web?</b> No dudes en contactarme.</p>
-    </div>
-  </section>
-          en la web?</b></p>
+¡Hola! Soy María Gabriela, pero puedes decirme Gaby  
 
 
