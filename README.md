@@ -1,3 +1,3 @@
-#¡Hola! Soy María Gabriela, pero puedes decirme Gaby  
+¡Hola! Soy María Gabriela, pero puedes decirme Gaby  
 
 
