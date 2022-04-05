@@ -12,8 +12,8 @@ Realmente amo la informática, el diseño, el marketing, la música y más.
 Aprendo todos los dias cosas nuevas ¿Por qué no hacerlo? El mundo es increíble.
 
 # Follow me on Instagram / Sígueme en Instagram
-[@soygaby_tech] (https://www.instagram.com/soygaby_tech/?hl=es-la)     
+https://www.instagram.com/soygaby_tech/?hl=es-la     
 
-[@soygaby_music] (https://www.instagram.com/soygaby_music/?hl=es-la)
+https://www.instagram.com/soygaby_music/?hl=es-la
 
-<p align="center">![image](https://user-images.githubusercontent.com/101301773/160249011-bd36e916-29f4-4046-b3af-4a514efccd44.png)</p>
+![image](https://user-images.githubusercontent.com/101301773/160249011-bd36e916-29f4-4046-b3af-4a514efccd44.png)
