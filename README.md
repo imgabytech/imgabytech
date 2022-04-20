@@ -15,5 +15,3 @@ Aprendo todos los dias cosas nuevas ¿Por qué no hacerlo? El mundo es increíbl
 https://www.instagram.com/soygaby_tech/?hl=es-la     
 
 https://www.instagram.com/soygaby_music/?hl=es-la
-
-![image](https://user-images.githubusercontent.com/101301773/160249011-bd36e916-29f4-4046-b3af-4a514efccd44.png)
