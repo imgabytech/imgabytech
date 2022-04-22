@@ -9,7 +9,7 @@ I'm learning every day new things. Why not do it? The world is amazing.
 Soy Gabriela, pero puedes decirme Gaby.
 Soy estudiante de informática / Desarrollador Junior.     
 Realmente amo la informática, el diseño, el marketing, la música y más.     
-Aprendo todos los dias cosas nuevas ¿Por qué no hacerlo? El mundo es increíble.
+Aprendo todos los dias cosas nuevas.
 
 # Follow me on Instagram / Sígueme en Instagram
 https://www.instagram.com/soygaby_tech/?hl=es-la     
